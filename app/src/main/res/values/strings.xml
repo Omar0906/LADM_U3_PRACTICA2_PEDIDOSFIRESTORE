@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LADM_U3_PRACTICA2_PEDIDOSFIRESTORE</string>
+    <array name="opciones">
+        <item>Añadir pedido</item>
+        <item>Ver pedidos</item>
+    </array>
+</resources>
